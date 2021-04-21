@@ -1,0 +1,22 @@
+{
+  "name": "auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janani2411/authJWT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janani2411/authJWT/issues"
+  },
+  "homepage": "https://github.com/janani2411/authJWT#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
